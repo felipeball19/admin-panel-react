@@ -20,8 +20,12 @@ Este proyecto es un ejercicio práctico para la materia de Ingeniería de Sistem
 
 ## Captura de pantalla
 
+<<<<<<< HEAD
 ![Vista previa](captura.png)
 
+=======
+![Vista previa](./public/captura.png)
+>>>>>>> 90ceb30adfa069b1b46052a4c9c1a1e4668e795d
 
 
 ## Cómo ejecutar el proyecto
