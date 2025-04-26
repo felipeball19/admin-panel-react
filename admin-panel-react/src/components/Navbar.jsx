@@ -4,8 +4,15 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        {/* Logo o Título */}
-        <NavLink className="navbar-brand" to="/">
+        {/* Logo con texto */}
+        <NavLink className="navbar-brand d-flex align-items-center" to="/">
+          <img
+            src="/logo.jpg"
+            alt="Logo"
+            width="30"
+            height="30"
+            className="d-inline-block align-text-top me-2"
+          />
           Admin Panel
         </NavLink>
 

@@ -20,7 +20,8 @@ Este proyecto es un ejercicio práctico para la materia de Ingeniería de Sistem
 
 ## Captura de pantalla
 
-![Vista previa](./public/app funcionando.png)
+![Vista previa](captura.png)
+
 
 
 ## Cómo ejecutar el proyecto
