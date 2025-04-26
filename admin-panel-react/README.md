@@ -20,7 +20,7 @@ Este proyecto es un ejercicio práctico para la materia de Ingeniería de Sistem
 
 ## Captura de pantalla
 
-![Vista previa](captura.png)
+![Vista previa](public/captura.png)
 
 
 
